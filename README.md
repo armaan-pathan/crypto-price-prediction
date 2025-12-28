@@ -80,6 +80,22 @@ The app will output the **Predicted BTC Closing Price**.
 
 ---
 
+## Screenshots
+
+### Streamlit App Home
+
+![App Home](screenshots/output1.png)
+
+### Input Sidebar & Prediction
+
+![App Prediction](screenshots/output2.png)
+
+### BTC Market Trend Visualization
+
+![BTC Trend](screenshots/output3.png)
+
+---
+
 ## Future Improvements
 
 * Add more cryptocurrencies as input features.
