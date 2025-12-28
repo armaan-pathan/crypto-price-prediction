@@ -14,6 +14,25 @@ The model leverages historical market data of **USDT** and **BNB** (closing pric
 
 ---
 
+## Project Structure
+
+```
+
+crypto-price-prediction/
+│
+├── screenshots/                   # App screenshots (for README)
+│
+├── README.md                      # Project documentation
+├── app.py                         # Streamlit app script
+├── bitcoin_price_prediction.ipynb # Jupyter Notebook with model training
+├── best_model.pkl                 # Saved trained Random Forest model
+├── scaler.pkl                     # Saved data scaler for preprocessing
+├── requirements.txt               # Python dependencies
+
+```
+
+---
+
 ## Installation & Setup
 
 ### 1️. Clone the Repository
